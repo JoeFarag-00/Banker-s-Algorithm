@@ -1,0 +1,9 @@
+F:\faculty\3rdcomputer\2nd-term\OS\assignments\ass3\The Banker's Algorithm\GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+F:\faculty\3rdcomputer\2nd-term\OS\assignments\ass3\The Banker's Algorithm\GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+F:\faculty\3rdcomputer\2nd-term\OS\assignments\ass3\The Banker's Algorithm\GUI\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+F:\faculty\3rdcomputer\2nd-term\OS\assignments\ass3\The Banker's Algorithm\GUI\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
+F:\faculty\3rdcomputer\2nd-term\OS\assignments\ass3\The Banker's Algorithm\GUI\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+F:\faculty\3rdcomputer\2nd-term\OS\assignments\ass3\The Banker's Algorithm\GUI\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\faculty\3rdcomputer\2nd-term\OS\assignments\ass3\The Banker's Algorithm\GUI\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\faculty\3rdcomputer\2nd-term\OS\assignments\ass3\The Banker's Algorithm\GUI\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+F:\faculty\3rdcomputer\2nd-term\OS\assignments\ass3\The Banker's Algorithm\GUI\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
